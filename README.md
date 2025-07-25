@@ -1,4 +1,4 @@
-# 📈 Forecasting U.S. Corporate Profits Using ARIMA (1980–2028)
+# 📈 Forecasting U.S. Corporate Profits Using ARIMA (2025–2028)
 
 ## Project Overview
 This project performs a **time series analysis and forecasting** of U.S. corporate profits after tax, covering **1980 Q1 to 2024 Q3**.  
